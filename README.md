@@ -2,7 +2,7 @@
 
 **Track Everything You Love – Movies, Shows, Games, Books, Anime, Manga & more**
 
-MediaTracker is a universal media tracking platform that lets you organize, rate, and review all types of media in one place. Discover trending content, manage your personal library, and get AI-powered recommendations based on your tastes.
+MyMediaList is a universal media tracking platform that lets you organize, rate, and review all types of media in one place. Discover trending content, manage your personal library, and get AI-powered recommendations based on your tastes.
 
 ---
 
