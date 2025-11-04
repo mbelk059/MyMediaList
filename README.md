@@ -25,13 +25,13 @@ coming soon
 - **Frontend:** React, CSS / Tailwind  
 - **Backend:** Node.js (Express)  
 - **Database:** PostgreSQL  
-- **APIs:** TMDb, Jikan, IGDB, Google Books  
+- **APIs:** Groq, TMDb, Jikan, IGDB, Google Books  
 
 ---
 
 ## Project Status
 - Core features implemented: authentication, library, search, trending media  
-- AI recommendation system integrated  
+- Groq recommendation system integrated  
 - Planned: social features, progress tracking, analytics, achievements  
 
 ---
